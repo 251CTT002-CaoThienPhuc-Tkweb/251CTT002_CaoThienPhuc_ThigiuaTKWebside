@@ -18,4 +18,3 @@ in ra chi tiết sách đã chọn lỗi  nhiều cần lên AI sửa lỗi.
 -Khi học C chuyển sang JS thường viết sai cú pháp.
 -Thiết kế web sách đẹp làm mất khá nhiều thời gian.
 6.LINK live Web:
-http://127.0.0.1:5500/GK_251CTT02/index.html
