@@ -30,6 +30,7 @@ document.addEventListener("DOMContentLoaded", function () {
       }
       this.style.backgroundColor = "#32e213";
       this.style.color = "#000";
+      this.style.borderRadius="6px";
       if (selectedMenu) {
         selectedMenu.textContent = this.textContent.trim();
       }
