@@ -18,3 +18,4 @@ in ra chi tiết sách đã chọn lỗi  nhiều cần lên AI sửa lỗi.
 -Khi học C chuyển sang JS thường viết sai cú pháp.
 -Thiết kế web sách đẹp làm mất khá nhiều thời gian.
 6.LINK live Web:
+https://251ctt002-caothienphuc-tkweb.github.io/251CTT002_CaoThienPhuc_ThigiuaTKWebside/
