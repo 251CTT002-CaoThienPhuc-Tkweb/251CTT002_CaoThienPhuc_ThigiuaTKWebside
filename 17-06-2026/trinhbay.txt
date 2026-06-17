@@ -1,0 +1,13 @@
+Yêu cầu thực hiện phân tích giao diện trước khi bắt đầu code, bao gồm các bước sau:
+1. Xác định các khu vực chính của trang.
+main
+2. Xác định nơi sử dụng CSS Grid 
+
+3. Xác định nơi sử dụng Flexbox 
+
+4. Vẽ Wireframe đơn giản  (Phác thảo bố cục)
+
+5. Thiết kế cấu trúc HTML
+
+
+ 
