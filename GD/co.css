@@ -1,0 +1,159 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+header{
+    display:flex;
+}
+.header-left{
+    flex:10%;
+    border: 1px solid #ece5e5cb;
+}
+.header-left h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 60px;
+}
+.header-center{
+    flex:60%;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    font-weight: bold;
+    padding: 10px;
+    border: 1px solid #ece5e5cb;
+}
+.header-right{
+    flex:20%;
+    border: 1px solid #ece5e5cb;
+        display:flex;
+        justify-content: center;
+        padding: 5px;
+        flex:1;
+}
+.header-r{
+    display: flex;
+    align-items: center;
+}
+.bell{
+    font-size: 15px;
+}
+.avatar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 25px;
+}
+
+main{
+    display: flex;
+    
+   
+}
+aside{
+    flex:17%;
+    display:flex;
+    list-style: none;
+    flex-direction:column;
+    border:1px solid #072566cb;
+    border-radius:5px;
+    background-color: rgba(4, 4, 73, 0.836);
+    color:aliceblue;
+    padding: 10px;;
+
+}
+aside h4{
+    display:flex;
+    align-items:center;
+    padding-left:20px;
+    padding-bottom: 20px;
+   background-color: rgb(11, 43, 223);
+   padding-top: 10px;
+   border-radius:10px;
+}
+
+aside li{
+     display:flex;
+     align-items:center;
+     padding-left:20px;
+     padding-bottom: 20px;
+    
+}
+.out{
+    color: red;
+    padding-top:900px ;
+}
+.container{
+     
+     
+    flex:90%;
+}
+.main-top{
+    
+   display: flex;
+   justify-content: center;
+   align-items: center;
+    
+}
+.container h1{
+text-align: center;
+padding: 20px;
+background-color: rgba(240, 255, 255, 0.411);
+}
+.card{
+    margin: 20px;
+    border: 1px solid #000;
+    border-radius: 10px;
+    padding: 10px;
+   
+}
+.icon h2{
+    font-size:40px;
+    box-shadow: 0px 0px 10px 5px #0f98ce;
+    border-radius: 40px;
+}
+.icon {
+    display:flex;
+    justify-content: center;
+    gap:10;
+}
+.icon h4{
+    padding-top:15px;
+}
+.main-center{
+    display:flex;
+    border: 1px solid #fff;
+}
+.main-center h1{
+    flex:60%;
+}
+.main-center input{
+    flex:10%;
+    padding: -200px;
+}
+.main-center p{
+    flex:10%;
+}
+.main-center h2{
+    flex:10%;
+}
+table{
+    font-size: 20px;
+    border: 1px solid #000;
+}
+table th{
+    padding:30px ;
+    border: 1px solid #000;
+
+}
+footer{
+    padding: 10px;
+    text-align: center;
+}
+
+
